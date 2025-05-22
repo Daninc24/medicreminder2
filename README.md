@@ -11,6 +11,8 @@ A comprehensive healthcare appointment management system built with React, TypeS
 - Medical records management
 - Reminder system configuration
 
+click https://gilded-truffle-c2ab2c.netlify.app/login
+
 ### For Patients
 - Personal dashboard
 - Appointment booking and history
