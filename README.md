@@ -12,6 +12,7 @@ A comprehensive healthcare appointment management system built with React, TypeS
 - Reminder system configuration
 
 click [https://gilded-truffle-c2ab2c.netlify.app/login](https://gilded-truffle-c2ab2c.netlify.app)
+pitch deck https://www.canva.com/design/DAGoeWVFqZI/1OkefOrlBKvN6VnAcdFGzw/edit?utm_content=DAGoeWVFqZI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### For Patients
 - Personal dashboard
